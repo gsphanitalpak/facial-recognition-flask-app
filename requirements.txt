@@ -9,4 +9,3 @@ tqdm>=4.65.0
 flask>=2.2.2
 seaborn>=0.12.0
 matplotlib>=3.6.0
-gunicorn
